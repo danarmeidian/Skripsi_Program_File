@@ -1,0 +1,5 @@
+Perbaikan:
+- Dibagian menu peramalan tidak usah input nilai alpha. Sistem otomatis meramalkan dengan nilai alpha terbaik (sudah)
+- Dibagian menu peramalan ditambahkan kesimpulan di atas grafik yang memuat nilai alpha,hasil peramalan, periodenya dan MAPE nya (sudah)
+- pada menu penjualan dibagian tambah penjualan di tambahkan inputan jumlah yang dibayar, kembalian dan fitur cetak nota. Jadi kayak kasir gitu
+- dibagian beranda ditambahkan grafik data penjualan dan peramalan
